@@ -11,9 +11,9 @@
   - Chapter 2 : [웹 개발 환경 만들기](https://jinwonyoon.notion.site/2-6364dbd0a6da4b9eb5051ef95f4a2b7e)
   - Chapter 3 : [HTML 기본 문서 만들기](https://jinwonyoon.notion.site/3-HTML-a99ad1b6811f438bbdf5acdaa7d35235)
   - Chapter 4 : [웹 문서에 다양한 내용 입력하기](https://jinwonyoon.notion.site/4-7096f47b227641b4b96c2d0138ae3fb1)
-  - Chapter 5 : [입력 양식 작성하기]
+  - Chapter 5 : [입력 양식 작성하기](https://jinwonyoon.notion.site/Chapter-5-5a5342540afc48319f35c94da2a58dc4)
 - **CSS**  
-  - Chapter 6 : [CSS의 기본]
+  - Chapter 6 : [CSS의 기본](https://jinwonyoon.notion.site/Chapter-6-CSS-b1501748e26a430ca0899da6edbdbee1)
   - Chapter 7 : [텍스트를 표현하는 다양한 스타일]
   - Chapter 8 : [레이아웃을 구성하는 CSS 박스 모델]
   - Chapter 9 : [이미지와 그러데이션 효과로 배경 꾸미기]
