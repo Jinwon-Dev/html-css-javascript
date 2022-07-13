@@ -14,14 +14,14 @@
   - Chapter 5 : [입력 양식 작성하기](https://jinwonyoon.notion.site/Chapter-5-5a5342540afc48319f35c94da2a58dc4)
 - **CSS**  
   - Chapter 6 : [CSS의 기본](https://jinwonyoon.notion.site/Chapter-6-CSS-b1501748e26a430ca0899da6edbdbee1)
-  - Chapter 7 : [텍스트를 표현하는 다양한 스타일]
+  - Chapter 7 : [텍스트를 표현하는 다양한 스타일](https://jinwonyoon.notion.site/Chapter-7-cea8764d17334904b6d4baeac81be131)
   - Chapter 8 : [레이아웃을 구성하는 CSS 박스 모델]
   - Chapter 9 : [이미지와 그러데이션 효과로 배경 꾸미기]
   - Chapter 10 : [CSS 고급 선택자]
   - Chapter 11 : [트랜지션과 애니메이션]
   - Chapter 12 : [반응형 웹과 미디어 쿼리]
 - **JavaScript**
-  - Chapter 13 : [자바스크립과 첫 만남]
+  - Chapter 13 : [자바스크립트와 첫 만남]
   - Chapter 14 : [자바스크립트 기본 문법]
   - Chapter 15 : [함수와 이벤트]
   - Chapter 16 : [자바스크립트와 객체]
