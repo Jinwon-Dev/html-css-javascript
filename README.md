@@ -19,7 +19,7 @@
   - Chapter 9 : [이미지와 그러데이션 효과로 배경 꾸미기]
   - Chapter 10 : [CSS 고급 선택자]
   - Chapter 11 : [트랜지션과 애니메이션](https://jinwonyoon.notion.site/Chapter-11-0e075c09f0b84ebe9005d99e40a1a33e)
-  - Chapter 12 : [반응형 웹과 미디어 쿼리]
+  - Chapter 12 : [반응형 웹과 미디어 쿼리](https://jinwonyoon.notion.site/Chapter-12-bfca1ff7259e42ba82186bacd74d0048)
 - **JavaScript**
   - Chapter 13 : [자바스크립트와 첫 만남]
   - Chapter 14 : [자바스크립트 기본 문법]
