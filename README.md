@@ -21,8 +21,8 @@
   - Chapter 11 : [트랜지션과 애니메이션](https://jinwonyoon.notion.site/Chapter-11-0e075c09f0b84ebe9005d99e40a1a33e)
   - Chapter 12 : [반응형 웹과 미디어 쿼리](https://jinwonyoon.notion.site/Chapter-12-bfca1ff7259e42ba82186bacd74d0048)
 - **JavaScript**
-  - Chapter 13 : [자바스크립트와 첫 만남]
-  - Chapter 14 : [자바스크립트 기본 문법]
+  - Chapter 13 : [자바스크립트와 첫 만남](https://jinwonyoon.notion.site/Chapter-13-2dfcf5945c91493ba089836b3b748bc8)
+  - Chapter 14 : [자바스크립트 기본 문법](https://jinwonyoon.notion.site/Chapter-14-97093d72dbbf4c1e85919c8274907e17)
   - Chapter 15 : [함수와 이벤트]
   - Chapter 16 : [자바스크립트와 객체]
   - Chapter 17 : [문서 객체 모델(DOM)]
